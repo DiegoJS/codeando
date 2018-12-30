@@ -1,10 +1,15 @@
-# codeando
+# Codeando
 Repositorio de pruebas
 
-#Desarrolladores
-DiegoJS
+# Install
+git clone https://github.com/devdiego/codeando.git
+cd codeando
 
-#Autor:
+# Desarrolladores
+DiegoJS
+devdiego
+
+# Autor:
 devdiego
 
 2019
