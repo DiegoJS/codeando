@@ -1,7 +1,10 @@
 # codeando
 Repositorio de pruebas
 
-Autor:
+#Desarrolladores
+DiegoJS
+
+#Autor:
 devdiego
 
 2019
